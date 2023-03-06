@@ -1,17 +1,14 @@
 # Description
-This repository contains embedded system prototyping projects using embedded micro-controller boards such as Arduino, Raspberry-Pi and others. Since these are hardware tools, thus it would need the required boards and sensors to implement them, however the provided code can be utilized which I have extensively documented using code comments. For some of the projects, I have also demonstrated their working using Proteus simulation suite.
+This repository contains digital signal processing projects and tasks. I have mainly used MATLAB programming software for the presented work since it is the most popular software when it comes to processing digital signals using a computer. The code is open source and is intended to help researchers and professionals in the field. Feel free to contact me incase of any clarifications.
 
 # Domain
 The contents can broadly be categorized into one of the following domains.
 
-* Embedded Systems.
-* Signal Processing.
-* Power Electronics.
+* Digital Signal Processing.
+* Digital Communication Systems.
+* Signals and Systems.
+* Electronics.
 
 # Tools
-While each project has its own requirements, however the major tools used are listed below.
-
-* Arduino-UNO
-* Raspberry-Pi
-* Digital Oscilloscope.
-* Proteus Simulation Suite.
+* MATLAB.
+* Simulink.
